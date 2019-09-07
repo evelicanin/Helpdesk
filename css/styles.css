@@ -1,0 +1,483 @@
+/* CSS Reset */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+/* Body */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #344346;
+  background: #e0eaf0 url(../images/background.png) repeat-x;
+}
+/* Typography */
+h1 {
+  text-transform: capitalize;
+  font-size: 26px;
+  letter-spacing: -1px;
+  margin: 60px 0 0 30px;
+}
+
+
+h2.featured {
+  color: #e6f3fb;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+h3 {
+  float: left;
+  margin-left: 35px;
+  background: url(../images/featured_arrow.png) no-repeat center bottom;
+  padding-bottom: 15px;
+  text-transform: capitalize;
+  font-size: 16px;
+}
+p {
+  font-size: 12px;
+  line-height: 18px;
+  text-align: justify;  
+}
+
+
+
+
+a:link {
+  color: #2e5a8b;
+  text-decoration: none;
+}
+a:visited { color: #000000; }
+a:hover { color: #a61600; }
+a:active { color: #a61600; }
+/* Layout */
+#container {
+  margin: auto;
+  /* width:966px;*/
+  width: 1066px;
+  }
+#header {
+  background: url(../images/header_bg.png) repeat-x;
+  float: left;
+  /* height: 143px; */
+  height: 113px;
+    /* dodao */
+  margin-top:30px;
+  /*width: 848px;*/
+  width:1049px;
+  border-right: 1px solid #fff;
+  border-left: 1px solid #fff;
+  margin-left: 8px;
+}
+
+#error_text p{
+        float:left;
+		text-align:left;
+		font-size:16px;
+		font-family:Century Gothic, serif;
+		max-width:260px;	
+           }
+
+#info {  
+  float: right;
+  height: 113px;
+  margin-top:0px;
+  width:300px;  
+  margin-left: 0px;
+}
+
+#info  p{  
+  float: right;
+  margin-top:30px;
+  width:200px;  
+  margin-left: 0px;
+}
+#info  span{  
+color:#9b1212;
+font-size:18px;
+}
+
+
+#info img{  
+  float: left;
+  height: 64px;
+  width: 64px;
+  margin-top:-10px;
+  margin-left:-10px;
+
+}
+
+#header img {margin-top:30px;
+             margin-left:30px;}
+
+/* Navigation */
+#navigation {
+  background: url(../images/nav_bg.png) repeat-x;
+  float: left;
+  height: 58px;
+  /*width: 848px;*/
+  width:1049px;
+  border-right: 1px solid #fff;
+  border-left: 1px solid #fff;
+  margin-left: 8px;
+}
+.nav-links li {
+  list-style-type: none;
+  text-align: center;
+  letter-spacing: -1px;
+  text-transform: capitalize;
+  float: left;
+}
+.nav-links li a {
+  text-decoration: none;
+  color: #3d4a4e;
+  display: block;
+  height: 35px;
+  width: 160px;
+  padding-top: 23px;
+}
+.nav-links a:hover, li#current a {
+  color: #fff;
+  background: url(../images/nav_hover.png) no-repeat;
+}
+
+/* Navigation admin*/
+#navigation_admin {
+  background: url(../images/nav_bg.png) repeat-x;
+  float: left;
+  height: 58px;
+  /*width: 848px;*/
+  width:1049px;
+  border-right: 1px solid #fff;
+  border-left: 1px solid #fff;
+  margin-left: 8px;
+}
+.nav-links_admin li {
+  list-style-type: none;
+  text-align: center;
+  letter-spacing: -1px;
+  text-transform: capitalize;
+  float: left;
+}
+.nav-links_admin li a {
+  text-decoration: none;
+  color: #3d4a4e;
+  display: block;
+  height: 35px;
+  width: 120px;
+  padding-top: 23px;
+}
+.nav-links_admin a:hover, li#current_admin a {
+  color: #9b1212;  
+  background: none;
+}
+
+
+
+/* Content Area */
+#content-area {
+  float: left;
+  /*width: 866px;*/
+  width:1066px;
+  background: url(../images/content_bg.png) repeat-y;
+  padding:30px 30px;
+  min-height: 500px;
+}
+
+
+/* Footer */
+#footer {
+  float: left;
+  height: 115px;
+  width: 1066px;
+  background: url(../images/footer.png) no-repeat;
+  padding-bottom: 20px;
+}
+#footer p {
+  color: #fff;
+  text-align: center;
+  margin-top: 40px;
+}
+
+#abis{
+    width:887px;
+	margin-left:55px;
+	background: #d9ebfd url('../images/abisback.png') repeat-x;
+	border:1px solid #91b1d2;
+}
+#abis p { 
+   margin-right:20px;
+   margin-left:20px;
+   font-size:14px;
+   font-weight:normal;
+   font-family:Helvetica, serif;
+   margin-bottom:10px;
+   color: #339;
+}
+#abis h1 {
+  text-transform: capitalize;
+  font-size: 26px;
+  letter-spacing: -1px;
+  margin: 30px 0 0 20px;
+  color: #339;
+}
+#abis img {
+margin-left:0px;
+}
+
+#abis ul{
+   margin-right:20px;
+   margin-left:40px;
+   font-size:14px;
+   font-weight:normal;
+   font-family:Helvetica, serif;
+   margin-bottom:10px;
+   color: #339;
+}
+
+
+legend			{ display: block; margin-left: 30px; padding:10px; color:#a61600; font-weight:bold;}
+
+fieldset			{ border: 1px solid #999; margin-left:20px; width:90%; -moz-border-radius: 5px;-webkit-border-radius: 5px;}
+/*
+label				{ width: 115px; text-align: right; float: left; margin: 0 10px 0 0; padding: 9px 0 0 0; font-size: 16px; }
+
+*/
+label				{ width: 150px; text-align: right; float: left; 
+                  margin: 0 10px 0 20px; padding: 9px 0 0 0; font-size: 16px; }
+
+label2			{ width: 750px; display: block; padding: 9px 0 0 0; margin: 0 10px 10px 180px; 
+                  font-size: 16px; color: #3a3a3a; font-family: Century Gothic, serif; border-bottom:1px solid #999;}
+label3			{ width: 450px; text-align: left; float: left; 
+                  margin: 0 10px 0 10px; padding: 9px 0 0 0; font-size: 16px;}
+label4			{ width: 200px; text-align: left; float: left; 
+                  margin: 0 10px 0 0; padding: 9px 0 0 0; font-size: 16px; }
+label5			{ width: 150px; text-align: left; float: left; 
+                  margin: 0 10px 0 0; padding: 9px 0 0 0; font-size: 16px; }	
+label6			{ width: 500px; text-align: left; float: left; 
+                  margin: 30px 10px 0 20px; padding: 9px 0 0 0; font-size: 16px;
+                  border: 1px solid #000;	  }	
+label20			{ width: 300px; height:200px; text-align: left; float: RIGHT; 
+                  margin-top: -500px; margin-right:150px; 
+				  padding: 5px 20px 5px 20px; font-size: 16px; font-family: Century Gothic, serif;
+                  background: url(../images/error.png) no-repeat;}	
+				  
+
+label10			{ width: 170px; text-align: left; float: left; 
+                  margin: 0 5px 0 10px; padding: 9px 0 0 0; font-size: 14px;}
+
+
+
+
+
+				  
+				  
+textarea                    { width:750px; height:150px;font-family: Georgia, serif; font-size: 18px;}
+
+#buttonpos            {  padding: 4px; margin: 20px 20px 10px 0; float:right;}
+#attachment          {  background: url(../images/attachment.png) no-repeat;
+                   width: 24px; height:24px; float: left; 
+                   margin-left:60px; padding: 9px 0 0 0}
+#zaglavlje            { margin-left:80px;}
+#zaglavlje1           { margin-left:0px;}
+#divider                { border-bottom:1px solid #999; height:1px; width:880px; margin-left:60px; margin-bottom:5px; padding-top:10px;}	
+#divider1                { border-bottom:1px solid #999; height:1px; width:920px; margin-left:10px; margin-bottom:5px;}			  
+
+
+
+
+
+input				{ width: 320px; padding: 4px; margin: 0 0 10px 0; font-size: 18px;
+					  color: #3a3a3a; font-family: Century Gothic, serif; display: block; }
+					  
+select			{ color: #3a3a3a; font-family: Georgia, serif; font-size: 18px; margin: 0 0 10px 0; padding: 4px; width: 332px; display: block;}
+					  
+
+input[type=checkbox]{ width: 20px; margin: 0; display: inline-block; }
+					  
+.button				{ background: url(../images/button-bg.png) repeat-x top center;
+                      border: 1px solid #999;
+					  -moz-border-radius: 5px; padding: 5px; color: white; font-weight: bold;
+					  -webkit-border-radius: 5px; font-size: 13px;  width: 150px; height:50px;
+					  margin-top:20px; margin-right:100px; float: right;}
+					  
+.button:hover		{ background: white; color: black; }
+
+.button2				{ background: url(../images/button-bg.png) repeat-x top center;
+                      border: 1px solid #999;
+					  -moz-border-radius: 5px; padding: 5px; color: white; font-weight: bold;
+					  -webkit-border-radius: 5px; font-size: 13px;  width: 150px; height:50px;
+					  margin-top:20px; margin-left:180px; float: left;}
+					  
+.button2:hover		{ background: white; color: black; }
+
+.button_2		{ background: url(../images/button-bg.png) repeat-x top center;
+                          border: 1px solid #999;
+                          float:right; 
+			  -moz-border-radius: 5px; padding: 5px; color: white; font-weight: bold;
+			  -webkit-border-radius: 5px; font-size: 16px;  width: 220px; height:40px; }
+.button_2:hover	        { background: white; color: black; }
+
+.button_3		{ background: white; color: #065295;                        
+                          border: 1px solid #065295;
+			  -moz-border-radius: 5px; padding: 5px; font-weight: bold;
+			  -webkit-border-radius: 5px; font-size: 13px;  width: 90px; }
+.button_3:hover	        {  background: url(../images/button-bg3.png) repeat-x top center; color: white;}
+/*
+.button			{ background: url(../images/button-bg.png) repeat-x top center;
+                          border: 1px solid #999;
+			  -moz-border-radius: 5px; padding: 5px; color: white; font-weight: bold;
+			  -webkit-border-radius: 5px; font-size: 13px;  width: 70px; }
+.button:hover	        { background: white; color: black; }
+
+.button_2		{ background: url(../images/button-bg.png) repeat-x top center;
+                          border: 1px solid #999;
+                          float:right; 
+			  -moz-border-radius: 5px; padding: 5px; color: white; font-weight: bold;
+			  -webkit-border-radius: 5px; font-size: 16px;  width: 220px; height:40px; }
+.button_2:hover	        { background: white; color: black; }
+
+.button_3		{ background: white; color: #065295;                        
+                          border: 1px solid #065295;
+			  -moz-border-radius: 5px; padding: 5px; font-weight: bold;
+			  -webkit-border-radius: 5px; font-size: 13px;  width: 90px; }
+.button_3:hover	        {  background: url(images/button-bg3.png) repeat-x top center; color: white;}
+*/
+/*
+#button2			{ background: url(images/button-bg.png) repeat-x top center;
+                                  border: 1px solid #999;
+			          -moz-border-radius: 5px; 
+			          -webkit-border-radius: 5px; 
+			          padding: 5px; color: white; 
+			          font-weight: bold; font-size: 13px;  
+			          width: 100px; height:40px;
+}
+					  
+					  
+#button2:hover	{ background: white; color: black; }
+*/
+
+
+/* Poseban stil za prikaz zahtjeva - tabela */
+.input2				{ width: 150px; display: inline; padding: 2px; font-size: 14px;}
+
+					  
+.select2			{ width: 60px; display: inline; padding: 2px; font-size: 14px;}
+
+
+
+
+
+.main {
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	border: 1px solid #ccc;
+}
+.main p {
+	margin: 5px;
+}
+.main div {
+	margin: 5px;
+}
+.main input {
+	font-size: 10px;
+}
+
+.bar {
+	color: #fff;
+	background: #ccc;
+	text-align: center;
+	padding: 5px;
+}
+
+
+.button_upload		   { background: url(../images/button-bg.png) repeat-x top center;                    
+                        border: 1px solid #999; float:right;
+					   -moz-border-radius: 5px; padding: 5px; color: white; font-weight: bold;
+					   -webkit-border-radius: 5px; font-size: 13px;  width: 155px; 
+					    margin-top:0px;  }
+.button_upload:hover   {  background: white; color: black; }
+
+
+
+.input_upload {
+	background: transparent;
+	color: #333;
+	/*border: 1px solid #ccc;*/
+	padding: 5px;
+    display: inline;
+	margin: 2px 10px 2px 36px;
+	font-size: 14px;
+	width: 500px;
+	float:right;
+	text-align:right;
+	
+}
+
+.progress {
+	max-height : 32px;
+	display : none;
+}
+
+/* TABLE korisnici */
+#gradient-style
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 16px;
+	margin: 30px;
+	width: 900px;
+	text-align: left;
+	border-collapse: collapse;
+}
+#gradient-style th
+{
+	font-size: 16px;
+	font-weight: normal;
+	padding: 8px;
+	background: #b9c9fe url('../images/gradhead.png') repeat-x;
+	border-top: 2px solid #d3ddff;
+	border-bottom: 1px solid #fff;
+	color: #039;
+}
+#gradient-style td
+{
+	padding: 8px; 
+	border-bottom: 1px solid #fff;
+	color: #669;
+	border-top: 1px solid #fff;
+	background: #e8edff url('../images/gradback.png') repeat-x;
+}
+#gradient-style td img
+{
+	margin-left:10px;
+    margin-right:10px;
+
+}
+#gradient-style tfoot tr td
+{
+	background: #e8edff;
+	font-size: 16px;
+	color: #99c;
+        
+}
+#gradient-style tbody tr:hover td
+{
+	background: #d0dafd url('../images/gradhover.png') repeat-x;
+	color: #339;
+}
+
+.aToolTip {
+	border:2px solid #334fac;
+	background:#b9c9fe;
+	color:#334fac;
+	margin:0;
+	padding:6px 12px;
+}
+
+.aToolTip .aToolTipContent {
+	position:relative;
+	margin:0;
+	padding:0;
+}
+
+p.error	{color: #A61600;font-size: 16px;margin-left: 180px;margin-top: 10px;}
+	#ie7 p.error	{color: #A61600;font-size: 16px;margin-left: 180px;margin-top: 10px;}
+.error {display:none;}

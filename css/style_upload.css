@@ -1,0 +1,221 @@
+/*########################################################################
+# Upload-Point 1.62 Beta - Simple Upload System
+# Copyright (c)2005-2009 Todd Strattman
+# strattman@gmail.com
+# http://covertheweb.com/upload-point/
+# License: LGPL
+########################################################################*/
+
+body {
+	background: #fff;
+	color: #333;
+	margin: 10px;
+	padding: 0;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 10px;
+}
+
+.main {
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	border: 1px solid #ccc;
+}
+.main p {
+	margin: 5px;
+}
+.main div {
+	margin: 5px;
+}
+.main input {
+	font-size: 10px;
+}
+
+.bar {
+	color: #fff;
+	background: #ccc;
+	text-align: center;
+	padding: 5px;
+}
+
+.upload {
+	width: 100%;
+	text-align: center;
+}
+.upload td {
+	padding: 0px;
+}
+.upload p {
+	margin: 0;
+	width:800px;
+}
+.uploadlisttd {
+	border: 1px solid #ccc;
+}
+.uploadlistname {
+	border: 1px solid #ccc;
+	width: 100px;
+	text-align: center;
+}
+.uploadlistsize {
+	border: 1px solid #ccc;
+	width: 100px;
+	text-align: center;
+}
+.uploadlistmod {
+	border: 1px solid #ccc;
+	width: 175px;
+	text-align: center;
+}
+.uploadlistrename {
+	border: 1px solid #ccc;
+	width: 100px;
+	text-align: center;
+}
+.uploadlistdelete {
+	border: 1px solid #ccc;
+	width: 75px;
+	text-align: center;
+}
+.uploadlistloc {
+	border: 1px solid #ccc;
+	width: 350px;
+	text-align: center;
+}
+
+h1 {
+	background: none;
+	color: #333;
+	padding: 3px;
+	margin: 0;
+	text-align: center;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 12px;
+}
+h2 {
+	background: none;
+	color: #333;
+	padding: 3px;
+	margin: 0;
+	text-align: center;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 10px;
+}
+hr {
+	border: 1px solid #ccc;
+}
+
+input {
+	background: #fff;
+	color: #333;
+	border: 1px solid #ccc;
+}
+
+.progress {
+	max-height : 32px;
+	display : none;
+}
+
+a:link, a:visited, a:active {
+	text-decoration: underline;
+	color: #0000cc;
+	background: none;
+	font-size: 10px;
+}
+a:hover {
+	text-decoration: none;
+	color: #333;
+	background: none;
+	font-size: 10px;
+}
+
+#upload_popup a, a:visited {
+	text-decoration: underline;
+	color: #0000cc;
+	background: none;
+	font-size: 10px;
+}
+#upload_popup a span {
+	display: none;
+}
+#upload_popup a:hover {
+	text-decoration: none;
+	color: #333;
+	background: none;
+	font-size: 10px;
+	text-indent: 0;
+}
+#upload_popup a:hover span {
+	display: block;
+	position: absolute;
+	top: 35px;
+	right: 0;
+	width: 250px;
+	padding: 5px;
+	margin: 10px;
+	z-index: 1;
+	color: #333;
+	border: 1px #ccc solid;
+	background: #fff;
+	text-align: left;
+}
+
+#option_popup a, a:visited {
+	text-decoration: underline;
+	color: #0000cc;
+	background: none;
+	font-size: 10px;
+}
+
+#option_popup a span {
+	display: none;
+}
+
+#option_popup a:hover {
+	text-decoration: none;
+	color: #333;
+	background: none;
+	font-size: 10px;
+	text-indent: 0;
+}
+
+#option_popup a:hover span {
+	display: inline-table;
+	position: relative;
+	top: 0px;
+	right: 0px;
+	width: 400px;
+	padding: 5px;
+	margin: 10px;
+	z-index: 1;
+	color: #333;
+	border: 1px #ccc solid;
+	background: #fff;
+	text-align: left;
+}
+
+table.tablesorter thead tr th, table.tablesorter tfoot tr th {
+	background-color: #eee;
+	padding: 0px;
+}
+table.tablesorter thead tr .header {
+	background-image: url(jscripts/bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+table.tablesorter tbody td {
+	padding: 0px;
+}
+table.tablesorter tbody tr.odd td {
+	background-color:#bbb;
+}
+table.tablesorter thead tr .headerSortUp {
+	background-image: url(jscripts/asc.gif);
+}
+table.tablesorter thead tr .headerSortDown {
+	background-image: url(jscripts/desc.gif);
+}
+table.tablesorter thead tr .headerSortDown, table.tablesorter thead tr .headerSortUp {
+	background-color: #bbb;
+}

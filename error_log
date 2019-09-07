@@ -1,0 +1,281 @@
+[13-Sep-2012 09:47:41] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Sep-2012 09:48:42] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Sep-2012 09:48:43] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Sep-2012 09:50:37] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Sep-2012 09:50:38] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Sep-2012 09:52:07] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Sep-2012 09:52:13] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Sep-2012 09:52:15] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Sep-2012 09:52:18] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Sep-2012 09:53:08] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Sep-2012 16:23:44] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[14-Sep-2012 09:37:00] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[14-Sep-2012 09:39:20] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[17-Sep-2012 10:07:34] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[24-Sep-2012 11:16:47] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Sep-2012 16:45:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[27-Sep-2012 16:45:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[27-Sep-2012 16:45:40] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[27-Sep-2012 16:45:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[27-Sep-2012 16:45:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[27-Sep-2012 16:45:51] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[27-Sep-2012 16:47:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[27-Sep-2012 16:48:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[02-Oct-2012 16:24:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[02-Oct-2012 16:24:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[02-Oct-2012 16:24:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[02-Oct-2012 16:25:41] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[02-Oct-2012 16:26:20] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[09-Oct-2012 21:46:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[22-Oct-2012 15:36:15] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[24-Oct-2012 14:56:31] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[24-Oct-2012 14:57:05] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[25-Oct-2012 09:29:21] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[25-Oct-2012 12:38:20] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[15-Nov-2012 09:14:49] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[23-Nov-2012 11:01:41] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Nov-2012 12:55:07] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Nov-2012 12:57:55] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[20-Dec-2012 16:06:28] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[26-Dec-2012 00:04:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[26-Dec-2012 00:06:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/shef/public_html/apps/helpdesk/database.php on line 6
+[31-Dec-2012 10:31:56] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[16-Jan-2013 14:50:31] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[16-Jan-2013 14:51:57] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[17-Jan-2013 09:43:20] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[17-Jan-2013 09:48:07] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[17-Jan-2013 11:13:49] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[17-Jan-2013 11:14:14] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[05-Feb-2013 14:32:58] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[05-Feb-2013 14:33:22] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[12-Feb-2013 09:50:46] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Feb-2013 11:57:52] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[22-Feb-2013 10:07:02] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Feb-2013 15:13:51] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Feb-2013 15:14:33] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Feb-2013 15:14:55] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Mar-2013 10:18:35] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[15-Mar-2013 16:51:01] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[18-Mar-2013 10:52:30] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[20-Mar-2013 05:20:58] PHP Warning:  POST Content-Length of 469876589 bytes exceeds the limit of 67108864 bytes in Unknown on line 0
+[20-Mar-2013 05:40:47] PHP Warning:  POST Content-Length of 469876589 bytes exceeds the limit of 67108864 bytes in Unknown on line 0
+[20-Mar-2013 05:58:02] PHP Warning:  POST Content-Length of 469876589 bytes exceeds the limit of 67108864 bytes in Unknown on line 0
+[22-Mar-2013 15:51:01] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[22-Mar-2013 15:57:18] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[22-Mar-2013 15:57:21] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[06-Apr-2013 18:36:40] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[12-Apr-2013 15:31:46] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[16-Apr-2013 13:02:55] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[23-Apr-2013 13:04:17] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[23-Apr-2013 13:04:49] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[23-Apr-2013 15:15:07] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[08-May-2013 14:23:47] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[08-May-2013 14:41:56] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[08-May-2013 14:42:55] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[08-May-2013 14:43:17] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[09-May-2013 13:15:01] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[09-May-2013 13:15:15] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[20-May-2013 08:45:32] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[20-May-2013 08:46:26] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-May-2013 09:20:49] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-May-2013 09:21:38] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-May-2013 10:10:18] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[28-May-2013 10:13:08] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[28-May-2013 10:43:57] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[03-Jul-2013 14:52:27] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[11-Jul-2013 14:53:41] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[12-Jul-2013 14:53:02] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[12-Jul-2013 15:49:13] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[15-Jul-2013 15:11:35] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[17-Jul-2013 11:25:12] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[24-Jul-2013 12:07:00] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[24-Jul-2013 12:18:15] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[24-Jul-2013 12:22:40] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[12-Aug-2013 15:35:02] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[12-Aug-2013 15:37:26] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Aug-2013 11:51:03] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[16-Aug-2013 14:44:55] PHP Warning:  Invalid argument supplied for foreach() in /home/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[11-Sep-2013 09:03:04] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[17-Sep-2013 12:46:53] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[17-Sep-2013 12:47:18] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[19-Sep-2013 14:57:31] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[20-Sep-2013 11:01:40] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[20-Sep-2013 11:17:45] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[24-Sep-2013 14:59:43] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[25-Sep-2013 12:33:40] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[25-Sep-2013 12:33:51] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[25-Sep-2013 12:35:03] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[25-Sep-2013 12:35:15] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[25-Sep-2013 12:35:21] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[26-Sep-2013 12:38:04] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[26-Sep-2013 12:38:04] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[26-Sep-2013 12:38:33] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[26-Sep-2013 12:38:45] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[26-Sep-2013 12:38:47] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[26-Sep-2013 13:49:32] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[26-Sep-2013 20:48:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[26-Sep-2013 20:48:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[01-Oct-2013 09:18:31] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[01-Oct-2013 13:22:38] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[09-Oct-2013 09:59:13] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[10-Oct-2013 12:55:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[10-Oct-2013 12:55:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[10-Oct-2013 12:56:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[10-Oct-2013 12:56:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[14-Oct-2013 14:05:01] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[18-Oct-2013 19:52:24] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[22-Oct-2013 21:10:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[23-Oct-2013 12:40:57] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[23-Oct-2013 13:52:00] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[25-Oct-2013 19:45:53] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[28-Oct-2013 09:34:02] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[28-Oct-2013 09:37:31] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[28-Oct-2013 09:37:49] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[28-Oct-2013 09:39:40] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[28-Oct-2013 10:26:42] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[28-Nov-2013 14:14:38] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[28-Nov-2013 15:46:42] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[29-Nov-2013 12:24:18] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[03-Dec-2013 20:42:37] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[03-Dec-2013 20:43:47] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[11-Dec-2013 14:28:23] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[20-Dec-2013 12:11:21] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[03-Jan-2014 14:00:48] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Jan-2014 12:07:25] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Jan-2014 12:08:31] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Jan-2014 12:08:43] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Jan-2014 12:09:00] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[10-Feb-2014 09:26:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[10-Feb-2014 09:26:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[10-Feb-2014 09:26:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[10-Feb-2014 09:26:50] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[10-Feb-2014 09:26:50] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[10-Feb-2014 09:27:02] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[10-Feb-2014 09:27:14] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[19-Feb-2014 15:08:04] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[19-Feb-2014 15:08:54] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[19-Feb-2014 15:10:08] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[19-Feb-2014 15:11:02] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[19-Feb-2014 15:12:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[19-Feb-2014 16:19:51] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[19-Feb-2014 16:24:20] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[19-Feb-2014 16:24:34] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[19-Feb-2014 18:51:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[20-Feb-2014 10:13:56] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[26-Feb-2014 15:37:23] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[06-Mar-2014 15:25:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[06-Mar-2014 15:26:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[06-Mar-2014 15:27:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[06-Mar-2014 15:27:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[07-Mar-2014 12:47:48] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[07-Mar-2014 12:48:07] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[11-Mar-2014 10:18:56] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[12-Mar-2014 12:01:09] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[12-Mar-2014 12:08:37] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[13-Mar-2014 17:13:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[14-Mar-2014 05:17:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[14-Mar-2014 05:17:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[14-Mar-2014 05:18:09] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[14-Mar-2014 05:18:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[14-Mar-2014 05:19:50] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[19-Mar-2014 09:01:54] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[20-Mar-2014 09:47:21] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[20-Mar-2014 09:47:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[20-Mar-2014 09:47:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[20-Mar-2014 09:48:31] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[20-Mar-2014 09:48:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[20-Mar-2014 15:46:10] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[21-Apr-2014 12:50:31] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[22-Apr-2014 14:37:13] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[06-May-2014 12:47:59] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[06-May-2014 13:07:14] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[06-May-2014 13:36:48] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[08-May-2014 14:25:34] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[04-Jun-2014 14:32:27 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[17-Jun-2014 04:22:52 America/Chicago] PHP Warning:  POST Content-Length of 469876792 bytes exceeds the limit of 67108864 bytes in Unknown on line 0
+[17-Jun-2014 04:41:02 America/Chicago] PHP Warning:  POST Content-Length of 469876792 bytes exceeds the limit of 67108864 bytes in Unknown on line 0
+[19-Jun-2014 09:10:22 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[21-Jun-2014 10:02:44 Europe/Sarajevo] PHP Warning:  mysql_connect(): Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[30-Jun-2014 15:52:02 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[30-Jun-2014 15:52:25 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[01-Jul-2014 11:33:55 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[01-Jul-2014 11:40:59 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[01-Jul-2014 12:08:09 Europe/Sarajevo] PHP Warning:  mysql_connect(): Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[01-Jul-2014 12:08:21 Europe/Sarajevo] PHP Warning:  mysql_connect(): Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[01-Jul-2014 12:08:21 Europe/Sarajevo] PHP Warning:  mysql_connect(): Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[03-Jul-2014 08:20:09 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[07-Jul-2014 16:08:05 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[08-Jul-2014 18:46:34 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[09-Jul-2014 08:34:14 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[09-Jul-2014 08:35:19 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[09-Jul-2014 09:15:09 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[09-Jul-2014 09:18:19 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[09-Jul-2014 09:18:59 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[09-Jul-2014 09:20:02 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[12-Jul-2014 06:33:36 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[30-Jul-2014 09:57:36 Europe/Sarajevo] PHP Warning:  include(): Filename cannot be empty in /home4/shef/public_html/apps/helpdesk/index.php on line 290
+[30-Jul-2014 09:57:36 Europe/Sarajevo] PHP Warning:  include(): Filename cannot be empty in /home4/shef/public_html/apps/helpdesk/index.php on line 290
+[30-Jul-2014 09:57:36 Europe/Sarajevo] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/php54/lib/php') in /home4/shef/public_html/apps/helpdesk/index.php on line 290
+[07-Aug-2014 16:01:53 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[04-Sep-2014 15:20:44 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[04-Sep-2014 15:23:23 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[06-Sep-2014 07:08:35 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[08-Sep-2014 12:07:53 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[08-Sep-2014 12:07:54 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[08-Sep-2014 12:07:56 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[08-Sep-2014 12:08:04 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[08-Sep-2014 12:08:08 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[08-Sep-2014 12:08:36 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[08-Sep-2014 12:08:36 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[17-Sep-2014 14:00:50 Europe/Sarajevo] PHP Warning:  mysql_connect(): Too many connections in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[22-Sep-2014 21:55:00 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[23-Sep-2014 12:38:39 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[23-Sep-2014 12:38:57 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[03-Oct-2014 10:19:09 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[10-Oct-2014 12:16:29 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[22-Oct-2014 11:28:18 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[24-Oct-2014 10:44:11 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[24-Oct-2014 10:46:50 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[24-Oct-2014 10:46:50 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[24-Oct-2014 10:46:52 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Oct-2014 14:49:56 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Oct-2014 15:13:47 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Nov-2014 16:09:38 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[05-Dec-2014 15:26:04 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[05-Dec-2014 15:27:15 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[11-Dec-2014 14:24:44 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[18-Dec-2014 13:02:28 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[25-Dec-2014 10:01:50 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[25-Dec-2014 13:02:14 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Jan-2015 15:26:42 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Jan-2015 15:27:40 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Jan-2015 15:38:19 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-Jan-2015 15:39:57 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[03-Feb-2015 15:37:57 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[03-Feb-2015 15:38:31 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[03-Feb-2015 16:36:30 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[03-Feb-2015 16:37:15 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[03-Feb-2015 16:40:16 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[19-Feb-2015 04:12:57 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[28-Feb-2015 10:40:18 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[06-Mar-2015 13:30:12 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[31-Mar-2015 14:23:15 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[31-Mar-2015 14:23:17 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[31-Mar-2015 14:23:25 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[07-Apr-2015 14:58:46 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[14-Apr-2015 15:46:36 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[15-Apr-2015 12:20:03 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[30-Apr-2015 13:08:39 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[18-May-2015 11:23:58 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[18-May-2015 11:24:39 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[18-May-2015 11:24:43 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[27-May-2015 13:16:41 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[28-May-2015 10:37:27 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[28-May-2015 10:41:14 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[03-Jun-2015 14:25:02 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[03-Jun-2015 14:25:18 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[10-Jun-2015 09:02:44 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[25-Jun-2015 14:54:06 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[29-Jun-2015 12:28:14 Europe/Sarajevo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home4/shef/public_html/apps/helpdesk/database.php on line 6
+[30-Jul-2015 09:00:44 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
+[11-Aug-2015 13:58:22 Europe/Sarajevo] PHP Warning:  Invalid argument supplied for foreach() in /home4/shef/public_html/apps/helpdesk/inc/admin_moduli.php on line 69
